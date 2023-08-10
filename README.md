@@ -1,16 +1,6 @@
-# bottom_navigation_sample
+## 温泉情報を　APIを叩いて取得し、表示する　Flutterアプリです
+ついでに　bottom navigationも実装しています
 
-A new Flutter project.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![スクリーンショット 2023-08-10 16 47 05](https://github.com/matsumotoLab0201/SpaAppByFlutter/assets/124796062/5f08e4f2-d65b-4a56-b8d3-7f3e4144f56a)
